@@ -41,8 +41,10 @@
 <br>
 <br>
   <br>
-  
-[![Supuni's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Supuni1&theme=tokyonight)](https://git.io/praveenscience)
+### ⚙️ &nbsp;GitHub Analytics
+
+<br>
+<br>
 
 | ![Supuni's github stats](https://github-readme-stats.vercel.app/api?username=Supuni1&show_icons=true&theme=tokyonight) | ![Supuni GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Supuni1&theme=tokyonight) |
 | --- | --- |
